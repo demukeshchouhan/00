@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+console.log("a new change");
+=======
+console.log("a");
+>>>>>>> 40c62a50bbb5cfcc558076097a195a28a25eb7c8
